@@ -142,6 +142,8 @@ if __name__ == '__main__':
 
                 print("\n\tThe link to the raw file is:")
                 print("\t" + rawLink)
+                print("\n\tMarkdown Link")
+                print("\t![](" + rawLink + ")")
 
 
             ## the file does not exit
